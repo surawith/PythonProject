@@ -1,3 +1,3 @@
 print("Introduction")
-print("Practice1")
-print("Pratice2")
+print("Practice")
+print("Learning")
